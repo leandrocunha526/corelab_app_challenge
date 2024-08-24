@@ -1,3 +1,4 @@
+import 'package:corelab_app_challenge/core/ui/app_theme/app_colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_modular/flutter_modular.dart';
@@ -19,6 +20,7 @@ class AppWidget extends StatelessWidget {
         statusBarIconBrightness: Brightness.dark,
         statusBarBrightness: Brightness.dark,
         systemNavigationBarIconBrightness: Brightness.dark,
+        systemNavigationBarColor: AppColors.backgroundColor,
       ),
       child: MaterialApp.router(
           debugShowCheckedModeBanner: false,
