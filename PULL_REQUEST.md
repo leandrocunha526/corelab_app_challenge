@@ -22,6 +22,8 @@ Linguagem: Dart
 [x] Mocked Data para dados fictícios com produtos para dentistas, sendo utilizado tanto para listagem para amostra e para funcionalidade de busca (para buscas terem resultados).  
 [x] Uso de Dartz.  
 `Uma biblioteca popular em Dart que oferece uma coleção de tipos funcionais, inspirados em linguagens como Haskell e Scala, para ajudar a escrever código mais robusto e seguro. Ela é particularmente útil ao trabalhar com operações que podem falhar, como chamadas de API, manipulação de erros e processamento de dados opcionais ou nulos. Mais uma decisão com foco na otimização de desempenho com melhor código possível.`  
+[x] Definido opcionalmente cor do plano de fundo da aplicação (branco) para barra de navegação (esta alteração segue em conformidade com o mockup que esta parte é branca) para se diferenciar de projetos que utilizam do padrão (o que é comum de deixarem em preto).  
+`Agora, a barra de navegação do sistema fica como parte da barra de navegação do aplicativo.`
 
 ## Para execução
 
